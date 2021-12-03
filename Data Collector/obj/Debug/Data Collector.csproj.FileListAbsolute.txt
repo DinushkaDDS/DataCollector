@@ -1,0 +1,88 @@
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\bin\Debug\Janaka Ayya Software.exe.config
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\bin\Debug\Janaka Ayya Software.exe.manifest
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\bin\Debug\Janaka Ayya Software.application
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\bin\Debug\Janaka Ayya Software.exe
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\bin\Debug\Janaka Ayya Software.pdb
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\bin\Debug\EntityFramework.dll
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\bin\Debug\System.Buffers.dll
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\bin\Debug\System.Memory.dll
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\bin\Debug\EntityFramework.xml
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\bin\Debug\System.Buffers.xml
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\bin\Debug\System.Memory.xml
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\obj\Debug\Data Collector.csprojAssemblyReference.cache
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\obj\Debug\Janaka_Ayya_Software.Contact_Person_related_Views.FormAddNewPersonDetails.resources
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\obj\Debug\Janaka_Ayya_Software.Contact_Person_related_Views.FormContactPersonView.resources
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\obj\Debug\Janaka_Ayya_Software.Contact_Person_related_Views.FormPersonDetailsView.resources
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\obj\Debug\Janaka_Ayya_Software.Contact_Person_related_Views.FormSelectPersons.resources
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\obj\Debug\Janaka_Ayya_Software.General_Public_related_Views.FormAddNewPersonDetails.resources
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\obj\Debug\Janaka_Ayya_Software.General_Public_related_Views.FormAddNewVisitDetailsView.resources
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\obj\Debug\Janaka_Ayya_Software.FormGeneralPublicView.resources
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\obj\Debug\Janaka_Ayya_Software.FormHomeView.resources
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\obj\Debug\Janaka_Ayya_Software.FormPersonDetailsView.resources
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\obj\Debug\Janaka_Ayya_Software.Properties.Resources.resources
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\obj\Debug\Data Collector.csproj.GenerateResource.cache
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\obj\Debug\Data Collector.csproj.CoreCompileInputs.cache
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\obj\Debug\Janaka Ayya Software.exe.manifest
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\obj\Debug\Janaka Ayya Software.application
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\obj\Debug\Data Collector.csproj.CopyComplete
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\obj\Debug\Janaka Ayya Software.exe
+C:\Users\ddsdi\Desktop\Data-Keeper\Janaka Ayya Software\obj\Debug\Janaka Ayya Software.pdb
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\bin\Debug\Public Data Collector.exe.config
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\bin\Debug\Public Data Collector.exe.manifest
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\bin\Debug\Public Data Collector.application
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\bin\Debug\Public Data Collector.exe
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\bin\Debug\Public Data Collector.pdb
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\bin\Debug\EntityFramework.dll
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\bin\Debug\System.Buffers.dll
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\bin\Debug\System.Memory.dll
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\bin\Debug\EntityFramework.xml
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\bin\Debug\System.Buffers.xml
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\bin\Debug\System.Memory.xml
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\obj\Debug\Data Collector.csprojAssemblyReference.cache
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\obj\Debug\Janaka_Ayya_Software.Contact_Person_related_Views.FormAddNewPersonDetails.resources
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\obj\Debug\Janaka_Ayya_Software.Contact_Person_related_Views.FormContactPersonView.resources
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\obj\Debug\Janaka_Ayya_Software.Contact_Person_related_Views.FormPersonDetailsView.resources
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\obj\Debug\Janaka_Ayya_Software.Contact_Person_related_Views.FormSelectPersons.resources
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\obj\Debug\Janaka_Ayya_Software.General_Public_related_Views.FormAddNewPersonDetails.resources
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\obj\Debug\Janaka_Ayya_Software.General_Public_related_Views.FormAddNewVisitDetailsView.resources
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\obj\Debug\Janaka_Ayya_Software.FormGeneralPublicView.resources
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\obj\Debug\Janaka_Ayya_Software.FormHomeView.resources
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\obj\Debug\Janaka_Ayya_Software.FormPersonDetailsView.resources
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\obj\Debug\Public_Data_Collector.Properties.Resources.resources
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\obj\Debug\Data Collector.csproj.GenerateResource.cache
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\obj\Debug\Data Collector.csproj.CoreCompileInputs.cache
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\obj\Debug\Public Data Collector.exe.manifest
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\obj\Debug\Public Data Collector.application
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\obj\Debug\Data Collector.csproj.CopyComplete
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\obj\Debug\Public Data Collector.exe
+C:\Users\ddsdi\Desktop\Data-Keeper\Data Collector\obj\Debug\Public Data Collector.pdb
